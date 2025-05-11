@@ -662,7 +662,7 @@ sections:
         type: FeaturedItem
       - title: "\U0001F331 A Tree Today, A Legacy Tomorrow"
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: "\U0001F333 Tree Plantation Drive"
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
