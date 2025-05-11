@@ -617,7 +617,7 @@ sections:
           hearts.
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/bd8bdacb27ceb2c7bb2a8f7913358c565620f4af.jpg
           altText: Placeholder Image
           styles:
             self:
