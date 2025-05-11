@@ -54,7 +54,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: An ideal thought to change people and awaring them toward nature
     items:
       - type: FeaturedItem
         title: 500k
