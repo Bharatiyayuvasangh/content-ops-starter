@@ -46,6 +46,9 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: >-
+        /images/Yellow Grid Background _ Yellow Background for video
+        editing.jpeg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
