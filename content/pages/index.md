@@ -609,7 +609,7 @@ sections:
     items:
       - title: 'Clean Village, Proud Youth'
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Kawripathar Cleanup Drive
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
