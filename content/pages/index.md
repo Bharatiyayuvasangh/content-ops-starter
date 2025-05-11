@@ -636,7 +636,7 @@ sections:
         type: FeaturedItem
       - title: Learning with Laughter
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: "\U0001F393 School Workshop – Waste is Wealth"
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
