@@ -82,6 +82,13 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/bharatiyayuvasang/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
