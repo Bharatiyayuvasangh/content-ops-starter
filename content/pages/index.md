@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Bharatiya Yuva Sangha
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: '"A Step from Rural – A Leap for India"'
     text: "## \U0001F64F **Namaskar!**\n\nWe are **Bharatiya Yuva Sangha**, a youth-led movement committed to inspiring change—one village, one voice, one action at a time.\n\n\n\n"
