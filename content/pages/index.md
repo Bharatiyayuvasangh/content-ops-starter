@@ -637,8 +637,11 @@ sections:
       - title: Learning with Laughter
         tagline: This is the tagline
         subtitle: "\U0001F393 School Workshop – Waste is Wealth"
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+
+          From puppet shows to poster-making, our workshops prove that education
+          on cleanliness can be fun, impactful, and creative.
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
