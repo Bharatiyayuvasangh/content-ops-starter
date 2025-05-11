@@ -78,6 +78,13 @@
             "elementId": ""
         },
         {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/bharatiyayuvasang/",
+            "icon": "facebook",
+            "elementId": ""
+        },
+        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
