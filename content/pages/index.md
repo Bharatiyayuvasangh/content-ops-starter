@@ -266,7 +266,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Our Vision for the Future
       color: text-dark
       styles:
         self:
