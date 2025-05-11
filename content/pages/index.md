@@ -633,6 +633,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            borderColor: border-neutralAlt
         type: FeaturedItem
       - title: Learning with Laughter
         tagline: This is the tagline
