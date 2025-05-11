@@ -73,13 +73,6 @@
         {
             "type": "Social",
             "altText": "Facebook link",
-            "url": "/BHARATIYAYUVASANGH",
-            "icon": "facebook",
-            "elementId": ""
-        },
-        {
-            "type": "Social",
-            "altText": "Facebook link",
             "url": "https://www.facebook.com/bharatiyayuvasang/",
             "icon": "facebook",
             "elementId": ""
