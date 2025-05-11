@@ -44,7 +44,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "IMAGE",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
