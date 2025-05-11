@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: '"A Step from Rural – A Leap for India"'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "## \U0001F64F **Namaskar!**\n\nWe are **Bharatiya Yuva Sangha**, a youth-led movement committed to inspiring change—one village, one voice, one action at a time.\n\n\n\n"
     actions:
       - label: Get started
         altText: ''
