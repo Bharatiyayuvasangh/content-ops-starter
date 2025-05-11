@@ -49,7 +49,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
