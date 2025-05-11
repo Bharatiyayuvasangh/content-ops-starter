@@ -48,7 +48,7 @@ sections:
       opacity: 100
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: WHO WE ARE
       color: text-dark
       styles:
         self:
