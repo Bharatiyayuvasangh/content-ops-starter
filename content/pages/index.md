@@ -663,9 +663,12 @@ sections:
       - title: "\U0001F331 A Tree Today, A Legacy Tomorrow"
         tagline: This is the tagline
         subtitle: "\U0001F333 Tree Plantation Drive"
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+
+          ogether with local villagers, we planted over 200 saplings across
+          barren patches. Because every green step is a giant leap for the
+          future.
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
