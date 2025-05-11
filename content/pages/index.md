@@ -610,8 +610,12 @@ sections:
       - title: 'Clean Village, Proud Youth'
         tagline: This is the tagline
         subtitle: Kawripathar Cleanup Drive
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+
+          Over 40 youth volunteers turned an ignored street into a spotless zone
+          in just one morning. The result? Cleaner surroundings and prouder
+          hearts.
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
