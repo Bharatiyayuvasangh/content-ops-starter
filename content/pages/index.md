@@ -660,7 +660,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: "\U0001F331 A Tree Today, A Legacy Tomorrow"
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
