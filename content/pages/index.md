@@ -273,11 +273,29 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      At Bharatiya Yuva Sangha, our vision is to build a cleaner, greener, and
+      more responsible India—starting from its roots. We aim to transform rural
+      and semi-urban communities through sustained youth engagement,
+      environmental education, and actionable programs. Our future plans include
+      expanding our cleanliness drives to more villages, launching eco-friendly
+      initiatives such as composting and plastic-free campaigns, and forging
+      partnerships with schools, NGOs, and local authorities.
+
+
+      We envision every young Indian as a catalyst for change—leading their own
+      communities with pride, discipline, and purpose. By organizing monthly
+      events, installing eco-dustbins, and promoting sustainable practices, we
+      aim to shift mindsets and habits from temporary awareness to lifelong
+      responsibility.
+
+
+      Our goal is simple yet powerful: **empower youth to lead India’s journey
+      toward sustainability**, one village at a time. Together, we strive to
+      create an India where cleanliness is not a campaign, but a way of life.
+
+
+
     actions: []
     media:
       title: Title of the video
